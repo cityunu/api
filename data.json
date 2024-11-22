@@ -1,23 +1,23 @@
 [
-    {
-        "id": 1,
-        "nombre": "Drop Box",
-        "categoria": "Suspenso",
-        "descripcio": "Actriz principal Sandra Bullock",
-        "fecha": "2024-11-19T06:00:00.000Z"
-    },
-    {
-        "id": 3,
-        "nombre": "No mires atras",
-        "categoria": "Ficción",
-        "descripcio": "Actriz principal Julia Roberts",
-        "fecha": "2024-11-14T06:00:00.000Z"
-    },
-    {
-        "id": 4,
-        "nombre": "La casa de papel",
-        "categoria": "Drama",
-        "descripcio": "Origen español",
-        "fecha": "2024-11-18T06:00:00.000Z"
-    }
+  {
+    "id": 1,
+    "nombre": "Dr. House",
+    "categoria": "Drama médico",
+    "descripcion": "En el Princenton Plainsboro de Nueva Jersey, el Dr. Gregory House, un singular genio de la medicina, se encarga de resolver casos como lo haría Sherlock Holmes. De forma astuta juega con la psicología de la Dra. Lisa Cuddy, su mejor amigo, el oncólogo Jam",
+    "fecha": "2014-11-16T06:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "nombre": "Burn the Stage",
+    "categoria": "Docuserie",
+    "descripcion": "Documenta el detrás de escenas de la gira The Wings Tour de la boy band surcoreana BTS. La gira atrajo a más de medio millón de fanáticos en 19 ciudades diferentes alrededor del mundo. ",
+    "fecha": "2024-11-21T06:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "nombre": "The Big Bang Theory",
+    "categoria": "Sitcom",
+    "descripcion": "Leonard y Sheldon son dos cerebros privilegiados que pueden ser capaces de decirle a todo el mundo más de lo que quiere saber sobre la física cuántica, pero que no tienen ni la menor idea de cómo relacionarse socialmente",
+    "fecha": "2014-09-24T05:00:00.000Z"
+  }
 ]
